@@ -24,17 +24,22 @@ git clone https://github.com/VigyatGoel/OrderingTheBurger.git
 
 ## Running the code
 
-1. Navigate to the folder where you have cloned this repositary
+1. Navigate to the directory where you have cloned this repositary
    
    ```bash
    cd OrderingTheBurger
+   ```
+2. Navigate to src directory
+   
+   ```bash
+   cd src
    ```
 3. Compile the code
    
    ```bash
    javac Main.java
    ```
-5. Run the code
+4. Run the code
    
    ```bash
    java Main
