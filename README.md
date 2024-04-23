@@ -21,3 +21,24 @@ In this project I have created a BURGER ORDERING SYSTEM.
 ```bash
 git clone https://github.com/VigyatGoel/OrderingTheBurger.git
 ```
+
+## Running the code
+
+1. Navigate to the folder where you have cloned this repositary
+   
+   ```bash
+   cd OrderingTheBurger
+   ```
+3. Compile the code
+   
+   ```bash
+   javac Main.java
+   ```
+5. Run the code
+   
+   ```bash
+   java Main
+   ```
+ 
+
+
